@@ -1,0 +1,1 @@
+/Users/mrbeast/Library/Mobile\ Documents/com~apple~CloudDocs/Desktop/Project\ X/Rust/Hellow-World/target/debug/Hellow-World: /Users/mrbeast/Library/Mobile\ Documents/com~apple~CloudDocs/Desktop/Project\ X/Rust/Hellow-World/src/main.rs
