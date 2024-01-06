@@ -125,7 +125,7 @@ fn control_flow_fn(x: i32, y: i32) -> bool {
         println!("Counter is {}", counter);
     } else {
         return false;
-    }
+    } 
 
     // IF ELSE INSIDE A VARIABLE
     let conditional = if x > y {  true } else {  false };
