@@ -1,17 +1,17 @@
 // Panic in rust is used to throw errors when a condition is met of its called..
 
-pub fn a(){
-    b()
+pub fn a(x : u32 ){
+    b(x)
 }
 
-fn b() {
-    c( )
+fn b(x : u32) {
+    c(x )
 }
- fn c(){
-    d(69);
+ fn c(x : u32){
+    d(x);
 }
-fn d(n :u32) {
-    if n== 69 {
+fn d(x :u32) {
+    if x != 69 {
         panic!("You can't 69 here!");
     } 
 }
