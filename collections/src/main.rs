@@ -94,7 +94,7 @@ scores.insert(&blue, 30);
 
     // or_insert  
 // This method checks whether value is already in the dictionary if not then inserts
-    scores.entry(&String::from("Yellow")).or_insert(90);
+    scores.entry(&String::from("Yellow")).or_insert(90); 
 
 
 
@@ -110,3 +110,4 @@ scores.insert(&blue, 30);
  }
 println!("{:?}", map);
 }
+ 
